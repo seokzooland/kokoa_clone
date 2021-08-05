@@ -1,3 +1,3 @@
 # kokoa_clone
 
-https://nomadcoders.co/
+https://seokzooland.github.io/kokoa_clone/
